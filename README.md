@@ -62,7 +62,7 @@ Cluster 0 (blue): Peripheral industries – care, arts, and local services that 
 
 ---
 
-# 🔧 How I Built It (End-to-End Workflow)
+## 🔧 How I Built It (End-to-End Workflow)
 	1.	📊 Data Collection
 
 Downloaded official ONS datasets:
