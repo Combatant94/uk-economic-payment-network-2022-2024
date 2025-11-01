@@ -4,6 +4,8 @@ Hey, I’m **Mohd Nafees** – MSc Data Science graduate from Birkbeck, Universi
 This project started with a simple question:  
 > *Who actually pays whom across UK industries?*
 
+So I grabbed real data from the Office for National Statistics (ONS) and went digging.
+
 <img width="847" height="440" alt="Screenshot 2025-11-01 at 12 30 24" src="https://github.com/user-attachments/assets/8cfdf784-1dfe-4696-9ebc-c996c9908306" />
 
 <sub><em>Each circle represents an industry; the brighter the node, the higher its influence in the UK economy.</em></sub>
@@ -90,12 +92,10 @@ Combined visuals & findings into final report:
 
 ⸻
 
+### 🚀 Live Dashboard
+🎥 Explore the Interactive Dashboard: *(Coming soon – will be published on [NovyPro](https://www.novypro.com/) shortly)*  
 
-
-## 🚀 Live Dashboard
-
-🎥 Explore the Interactive Dashboard:
-👉 View on NovyPro￼
+Below is a preview image from the Power BI dashboard built with DAX measures and ONS trade data.
 
 <img width="789" height="452" alt="Screenshot 2025-11-01 at 12 36 37" src="https://github.com/user-attachments/assets/7823920e-ccee-4224-9c98-b9c19e29f0b1" />
 
@@ -113,6 +113,13 @@ Combined visuals & findings into final report:
 3.	Unzip industry_transactions_final_typed.csv.zip before loading
 4.	Run the SQL script to create the database and tables
 5.	Open Power BI dashboard (if available) to explore visual insights
+
+### 🗂️ Data Source
+All datasets used in this project are publicly available from the **Office for National Statistics (ONS)**:
+- UK Inter-Industry Payment Flows (January 2017 – November 2024)
+- UK Standard Industrial Classification (SIC) Structure Summary
+
+Data is used under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 ## Mohd Nafees
 📍 London | 🎓 MSc Data Science – Birkbeck, University of London
