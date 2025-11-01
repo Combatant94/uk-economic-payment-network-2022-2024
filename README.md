@@ -108,7 +108,11 @@ Below is a preview image from the Power BI dashboard built with DAX measures and
 1. Clone the repo  
    ```bash
    git clone https://github.com/Combatant94/uk-economic-payment-network-2022-2024.git
-
+   Create database
+   CREATE DATABASE uk_industry_payments;
+   Import CSVs and run queries from
+   sql/uk_industry_payments_analysis.sql
+   
 2.	Open the Jupyter notebook (UK_paymnet_flows.ipynb)
 3.	Unzip industry_transactions_final_typed.csv.zip before loading
 4.	Run the SQL script to create the database and tables
