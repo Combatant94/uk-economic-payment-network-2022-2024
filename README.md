@@ -32,7 +32,7 @@ Cluster 0 (blue): Peripheral industries – care, arts, and local services that 
 ![Preview_Insight_Report](https://github.com/user-attachments/assets/9ac5feed-767e-434e-8f93-3c8601c69d05)
 
 
-### PowerBI Dasboarb preview
+### PowerBI Dasboard preview
 ![preview_powerbi_small](https://github.com/user-attachments/assets/14d763c0-2a29-476a-82d5-5879d5a00ce9)
 
 
