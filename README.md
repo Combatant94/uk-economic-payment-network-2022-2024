@@ -95,7 +95,7 @@ Combined visuals & findings into final report:
 
 ⸻
 
-### 🚀 Live Dashboard
+### 🚀 Live Dashboard.
 🎥 Explore the Interactive Dashboard: *(Coming soon – will be published on [NovyPro](https://www.novypro.com/) shortly)*  
 
 Below is a preview image from the Power BI dashboard built with DAX measures and ONS trade data.
