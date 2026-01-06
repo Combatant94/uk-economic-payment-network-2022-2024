@@ -7,7 +7,7 @@ Hey, I’m **Mohd Nafees** – MSc Data Science graduate from Birkbeck, Universi
 This project started with a simple question:  
 > *Who actually pays whom across UK industries?*
 
-So I grabbed real data from the Office for National Statistics (ONS) and went digging.
+So I grabbed real data from the Office for National Statistics (ONS) and went digging
 
 <img width="847" height="440" alt="Screenshot 2025-11-01 at 12 30 24" src="https://github.com/user-attachments/assets/8cfdf784-1dfe-4696-9ebc-c996c9908306" />
 
