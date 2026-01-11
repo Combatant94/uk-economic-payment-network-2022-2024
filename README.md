@@ -1,6 +1,7 @@
-# 🇬🇧 UK Inter-Industry Economic Network (2022–2024)
+## 🇬🇧 UK Inter-Industry Economic Network (2022–2024)
 
-<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/e063c212-6e46-4b6e-9c02-cad8a1e0fbb3" />
+<img width="679" height="419" alt="image" src="https://github.com/user-attachments/assets/b47df632-30d5-450b-8bcd-58f086fea2bc" />
+
 
 
 Hey, I’m **Mohd Nafees** – MSc Data Science graduate from Birkbeck, University of London.  
